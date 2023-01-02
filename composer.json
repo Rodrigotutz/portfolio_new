@@ -1,6 +1,6 @@
 {
-    "name": "rodrigotutz/saas",
-    "description": "Desenvolviemento de um Software as a Service",
+    "name": "rodrigotutz/portifolio",
+    "description": "Novo Portifólio Rodrigo Tutz",
     "minimum-stability": "stable",
     "authors": [
         {
@@ -22,8 +22,8 @@
     },
     "require": {
         "coffeecode/router": "^2.0",
-        "vlucas/phpdotenv": "^5.5",
         "coffeecode/datalayer": "^2.0",
+        "vlucas/phpdotenv": "^5.5",
         "league/plates": "^3.4"
     },
     "require-dev": {
